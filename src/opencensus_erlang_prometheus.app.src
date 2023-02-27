@@ -1,5 +1,5 @@
 {application, opencensus_erlang_prometheus,
- [{description, ""},
+ [{description, "Opencensus Prometheus integration for Erlang/BEAM"},
   {vsn, "0.3.2"},
   {registered, []},
   {applications,
